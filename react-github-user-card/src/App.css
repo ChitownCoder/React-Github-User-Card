@@ -1,0 +1,121 @@
+.AppBox {
+	text-align: center;
+	width: 100%;
+}
+
+.App {
+	text-align: center;
+	font-family: 'Vast Shadow', sans-serif;
+	font-size: 30px;
+	color: #ff3c00;
+}
+
+.userCardSection {
+	width: 60%;
+	margin: 0 auto;
+	font-family: 'Cinzel Decorative', cursive;
+	font-size: 25px;
+	width: 80%;
+	color: #d0ff00;
+}
+
+.fcContainer {
+	font-family: 'Forum', sans-serif;
+	font-size: 25px;
+	width: 33%;
+	margin: 0 auto;
+}
+.fctitle {
+	font-family: 'Forum', sans-serif;
+	font-size: 25px;
+	width: 75%;
+	margin: 0 auto;
+	color: #d0ff00;
+}
+
+.imgDiv {
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	font-size: 250%;
+	width: 75%;
+}
+
+form {
+	margin: 2%;
+	background: #010a01;
+	padding: 2%;
+	color: #d0ff00;
+	text-align: center;
+}
+.frame {
+	border: 5px solid rgb(139, 10, 10);
+	margin: 2%;
+	padding: 1%;
+}
+.font {
+	font-family: 'Vast Shadow', sans-serif;
+}
+.avatar {
+	width: 98%;
+}
+
+.ucicons {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	width: 25%;
+	margin-left: 35%;
+	margin-top: -5%;
+}
+
+.ficons {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	width: 25%;
+	margin-left: 55%;
+	margin-top: -10%;
+}
+.ucspan {
+	margin: 5%;
+	font-size: 35px;
+}
+
+.fspan {
+	margin: 5%;
+	font-size: 35px;
+}
+
+.gh {
+	color: #ac5a5a;
+	background: white;
+}
+
+.branch {
+	color: #00eeff;
+}
+
+.img {
+	height: auto;
+	border: 5px solid white;
+	margin: 0 auto;
+}
+.border {
+	background: #dee4de;
+	padding: 1%;
+}
+
+.back {
+	background: rgb(14, 8, 0);
+	border: 3px groove #270314;
+}
+
+ul {
+	/* list-style-image: url('./images/bullet.png'); */
+	text-align: justify;
+}
+.ul {
+	margin: 50px auto;
+	width: 25%;
+}
